@@ -1,0 +1,119 @@
+{
+  "startTime": "2022-09-14T08:54:52.288Z",
+  "endTime": "2022-09-14T08:55:10.364Z",
+  "userAgents": [
+    "Microsoft Edge 105.0.1343.33 / Windows 10"
+  ],
+  "passed": 11,
+  "total": 11,
+  "skipped": 0,
+  "fixtures": [
+    {
+      "name": "A set of examples that illustrate how to use TestCafe API",
+      "path": "C:\\Users\\Jakob\\TestCafeStudio\\Examples\\js-examples.js",
+      "meta": {},
+      "tests": [
+        {
+          "name": "How to type text into an input (t.typeText user action)",
+          "meta": {},
+          "errs": [],
+          "durationMs": 2881,
+          "unstable": false,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "How to click check boxes and then verify their states (t.click user action and ok() assertion)",
+          "meta": {},
+          "errs": [],
+          "durationMs": 1127,
+          "unstable": false,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "How to type text into an input, click at a specified position and backspace a symbol (t.typeText, t.click, t.pressKey user actions and eql() assertion)",
+          "meta": {},
+          "errs": [],
+          "durationMs": 1339,
+          "unstable": false,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "How to press a specified key (t.pressKey user action)",
+          "meta": {},
+          "errs": [],
+          "durationMs": 1649,
+          "unstable": false,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "How to implement comparison (ok() and notOk() assertions)",
+          "meta": {},
+          "errs": [],
+          "durationMs": 913,
+          "unstable": false,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "How to compare a value in an input with an expected one (eql() assertion)",
+          "meta": {},
+          "errs": [],
+          "durationMs": 2327,
+          "unstable": false,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "How to drag a page element (t.dragToElement user action)",
+          "meta": {},
+          "errs": [],
+          "durationMs": 1486,
+          "unstable": false,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "How to hover over an element (t.hover user action)",
+          "meta": {},
+          "errs": [],
+          "durationMs": 1051,
+          "unstable": false,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "How to select text in an input (t.selectText user action)",
+          "meta": {},
+          "errs": [],
+          "durationMs": 1569,
+          "unstable": false,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "How to handle a confirmation dialog (t.setNativeDialogHandler() and t.getNativeDialogHistory())",
+          "meta": {},
+          "errs": [],
+          "durationMs": 1167,
+          "unstable": false,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "A simple test on our example page",
+          "meta": {},
+          "errs": [],
+          "durationMs": 2441,
+          "unstable": false,
+          "screenshotPath": null,
+          "skipped": false
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}
